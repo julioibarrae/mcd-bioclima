@@ -4,7 +4,7 @@ Proyecto bioclima
 
 ## Instalación
 
-Esta es la librería para el treemap se utiliza.
+Esta es la librería para el treemap que se utiliza.
 
 ```bash
 conda install -c conda-forge squarify
